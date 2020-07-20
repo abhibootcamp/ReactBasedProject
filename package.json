@@ -1,0 +1,40 @@
+{
+  "name": "react_based_project",
+  "version": "1.0.0",
+  "description": "Just Enjoy",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhibootcamp/ReactBasedProject.git"
+  },
+  "author": "Abhishek Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhibootcamp/ReactBasedProject/issues"
+  },
+  "homepage": "https://github.com/abhibootcamp/ReactBasedProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "eslint": "^7.5.0",
+    "eslint-plugin-react": "^7.20.3",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
